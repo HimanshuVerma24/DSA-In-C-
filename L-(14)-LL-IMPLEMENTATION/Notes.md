@@ -1,0 +1,31 @@
+// Linked List Creation And Traversal.
+
+(1) Time Complexity Of Linked List Is O(n). 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
